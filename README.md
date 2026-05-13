@@ -6,8 +6,6 @@ Built on top of [Vanilla Lexicon](https://marcoscv-work.github.io/lexicon-vanill
 
 **Live preview:** https://drakonux.github.io/side-navigation-evolution/
 
----
-
 ## Files
 
 | File | Purpose |
@@ -20,8 +18,6 @@ Built on top of [Vanilla Lexicon](https://marcoscv-work.github.io/lexicon-vanill
 | `tokens-high-contrast.css` | High-contrast overrides |
 | `components.css` | Component styles |
 | `icons.svg` | Clay icon sprite |
-
----
 
 ## Base kit
 
